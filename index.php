@@ -3,7 +3,7 @@
 	Plugin Name: Dansnet Meta Tag
 	Plugin URI: http://dansnet.de/dansnet-meta-tag
 	Description: Dansnet Meta Tag is a lightweight plugin that allows you to generate HTML metadata to provide information for search engines like Google.
-	Version: 1.0.1
+	Version: 1.0.2
 	Author: Deniz Schmid
 	Author URI: http://dansnet.de
 	*/
