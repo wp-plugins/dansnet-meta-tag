@@ -21,7 +21,7 @@ Markdown parsed.
 
 This plugin supports following tags:
 
--	"desription" defines keywords for search engines
+-	"description" defines keywords for search engines
 -	"keywords" define a description of your web page
 -	"author" defines the author of a page
 -	"robots" defines if your web page should be indexed or not
