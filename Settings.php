@@ -34,7 +34,7 @@
 		protected $options = array();
 		
 		/**
-		 * Settings für die Options-Page.
+		 * Settings fï¿½r die Options-Page.
 		 * @var array
 		 */
 		protected $settings = array(
@@ -64,8 +64,8 @@
 				{
 					$this->options = $options;
 				} 
-				$this->posts = get_posts(array('post_type'=>'page', 'post_status'=>'any'));
-				array_unshift($this->posts, get_post(get_option( 'page_on_front' )));
+				$this->posts = get_posts(array('post_type'=>'page', 'post_status'=>'any', 'posts_per_page'=>-1));
+				//array_unshift($this->posts, get_post(get_option( 'page_on_front' )));
 			}
 			
 		}
