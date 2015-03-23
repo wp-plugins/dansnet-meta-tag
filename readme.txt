@@ -21,15 +21,17 @@ Markdown parsed.
 
 This plugin supports following tags:
 
-*	"desription" defines keywords for search engines
-*	"keywords" define a description of your web page
-*	"author" defines the author of a page
-*	"robots" defines if your web page should be indexed or not
+-	"desription" defines keywords for search engines
+-	"keywords" define a description of your web page
+-	"author" defines the author of a page
+-	"robots" defines if your web page should be indexed or not
+
+Meta tag settings can be found on the general settings page from your Worpress installation.
 
 == Installation ==
 
 Upload the Dansnet Meta Tag plugin to your blog, and activate it.
-
+Meta tag settings can be found on the general settings page from your Worpress installation.
 
 == Screenshots ==
 
