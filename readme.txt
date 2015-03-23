@@ -39,6 +39,9 @@ Meta tag settings can be found on the general settings page from your Worpress i
 
 == Changelog ==
 
+= 1.0.2 =
+* Fixed issue that only 5 static pages will be displayed in the drop down box.
+
 = 1.0.1 =
 * Define meta tags for each static site. 
 
